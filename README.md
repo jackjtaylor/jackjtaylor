@@ -43,7 +43,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-<p>Python, Django, FastAPI, Flask, C++, Git, JavaScript, C#, CSS3, Unity, Unreal Engine, MySQL, Postgres and more.</p>
-
 ###
