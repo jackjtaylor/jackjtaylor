@@ -18,5 +18,5 @@
 
 ###
 
-<p align="left">🐍 Python, with frameworks such as Django, Flask, SQLAlchemy, Peewee, and FastAPI<br>💻 Java, C#, HTML, CSS, JavaScript, C++, Git<br>💾 MySQL, Postgres, SQLite<br>🎮 Unreal Engine, Unity, and other model and game visualisation software</p>
+<p align="left">🐍 Python, with frameworks such as Django, Flask, SQLAlchemy, Peewee, and FastAPI<br>💻 Java, C#, HTML, CSS, JavaScript, C++, Git<br>📦 MySQL, Postgres, SQLite<br>🎮 Unreal Engine, Unity, and other model and game visualisation software</p>
 
