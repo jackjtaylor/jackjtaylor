@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Jack Taylor, a developer living in Germany.</p>
+<p align="left">I'm Jack Taylor, a developer from Australia.</p>
 
 ###
 
