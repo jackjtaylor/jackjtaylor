@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been writing code since I was a teenager, and professionally for over two years.<br>📚 I'm currently learning advanced Python, along with expanding my C and C++ knowledge.<br>🎯 My goal is to create more full-scale personal projects, for here.</p>
+<p align="left">✨ I've been writing code since I was a teenager, and professionally for over two years.<br>📚 I'm currently learning advanced Python, along with expanding my Java knowledge past my previous projects.<br>🎯 My goal is to create more full-scale personal projects, for here. I sadly have many projects on that were lost and never uploaded here. These included Java projects, Unity and Unreal Engine games, and more.</p>
 
 ###
 
