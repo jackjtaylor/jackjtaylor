@@ -12,6 +12,8 @@
 
 <p align="left">✨ I've been writing code since I was a teenager, and professionally for over two years.<br>📚 I'm currently learning advanced Python, along with expanding my Java knowledge past my previous projects.<br>🎯 My goal is to create more full-scale personal projects, for here.</p>
 
+###
+
 <p align="left">As a developer, I've worked with a range of technologies and projects. I started creating Python projects when I was a teenager, and I still love the language to this day. I love its simplicity, ability to get projects up and running fast, and its automation potential. 
 
 I later studied a Bachelor of Information Technology (BIT) and I was exposed to a wide range of tech stacks. I created full-stack websites and mobile applications with JavaScript, Angular, Ionic and other languages. I also learnt extensively about documentation, management and the 'other' parts of development, which helps me to this day. When creating a new repository or project, I aim to always document well, stay with a structure and keep code as readable as possible.
@@ -30,6 +32,8 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
 ###
 
 <p align="left">🐍 Python, with frameworks such as Django, Flask, SQLAlchemy, Peewee, and FastAPI<br>💻 Java, C#, HTML, CSS, JavaScript, C++, Git<br>📦 MySQL, Postgres, SQLite<br>🎮 Unreal Engine, Unity, and other model and game visualisation software</p>
+
+###
 
 <p align="left"> I pride myself on being a clear, understandable and communicating developer. I strive to always document code, write clear naming conventions, format and cleanup code, and more. More importantly, I strive to push clear, simple commits and communicate my changes effectively with team members. I'm an easy and outgoing person, and communication is second nature to me.</p>
 
