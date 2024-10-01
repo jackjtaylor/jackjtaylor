@@ -45,11 +45,17 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
 
   - 🐍 Python, with frameworks such as Django, Flask, SQLAlchemy, Peewee, and FastAPI
   
-  - 💻 Java, C#, HTML, CSS, JavaScript, C++, Git
+  - 💻 Java, C#, C++, Git
+  
+  - 🖥️ HTML, CSS, JavaScript, Angular, Ionic, Cordova
+
+  - 🛠️ Git, Docker, GitLab CI
   
   - 📦 MySQL, Postgres, SQLite
   
   - 🎮 Unreal Engine, Unity, and other model and game visualisation software
+
+  
 
 ###
 
