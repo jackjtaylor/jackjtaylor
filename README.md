@@ -18,7 +18,7 @@
 
 <p align="left">As a developer, I've worked with a range of technologies and projects. I started creating Python projects when I was a teenager, and I still love the language to this day. I love its simplicity, ability to get projects up and running fast, and its automation potential. 
 
-I later studied a Bachelor of Information Technology (BIT) and I was exposed to a wide range of tech stacks. I created full-stack websites and mobile applications with JavaScript, Angular, Ionic and other languages. I also learnt extensively about documentation, management and the 'other' parts of development, which helps me to this day. When creating a new repository or project, I aim to always document well, stay with a structure and keep code as readable as possible.
+I later studied a Bachelor of Information Technology and I was exposed to a wide range of tech stacks. I created full-stack websites and mobile applications with JavaScript, Angular, Ionic and other languages. I also learnt extensively about documentation, management and the 'other' parts of development, which helps me to this day. When creating a new repository or project, I aim to always document well, stay with a structure and keep code as readable as possible.
 
 I also created projects with Java, creating simple applications and command-line tools. I also created, using a graphics library alongside me, a three-dimensional raycaster-based environment. This was one of my most beloved Java-based projects, as there were no real resources online, and I had to use retro development articles and assets to decide how to develop the engine.
 
