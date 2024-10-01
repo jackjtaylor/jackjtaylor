@@ -27,6 +27,16 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
 
 ###
 
+- 🔭 I’m currently working on **a full-stack Spring website.**
+
+- 🌱 I’m currently learning **about Java, and extending my knowledge past previous projects.**
+
+- 👯 I’m looking to collaborate on **full-stack development, and creating dynamic sites.**
+
+- 💬 Ask me about **advanced Python and automation**
+
+###
+
 <h2 align="left">I develop with</h2>
 
 ###
