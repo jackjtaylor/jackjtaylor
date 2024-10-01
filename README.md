@@ -41,28 +41,8 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
 
 <h2 align="left">I develop with</h2>
 
-###
-
-  - 🐍 Python, with frameworks such as Django, Flask, SQLAlchemy, Peewee, and FastAPI
-  
-  - 💻 Java, C#, C++, Git
-  
-  - 🖥️ HTML, CSS, JavaScript, Angular, Ionic, Cordova
-
-  - 🛠️ Git, Docker, GitLab CI
-  
-  - 📦 MySQL, Postgres, SQLite
-  
-  - 🎮 Unreal Engine, Unity, and other model and game visualisation software
-
-  
 
 ###
-
-<p align="left"> I pride myself on being a clear, understandable and communicating developer. I strive to always document code, write clear naming conventions, format and cleanup code, and more. More importantly, I strive to push clear, simple commits and communicate my changes effectively with team members. I'm an easy and outgoing person, and communication is second nature to me.</p>
-
-###
-<br>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -109,3 +89,7 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
+
+###
+
+<p align="left"> I pride myself on being a clear, understandable and communicating developer. I strive to always document code, write clear naming conventions, format and cleanup code, and more. More importantly, I strive to push clear, simple commits and communicate my changes effectively with team members. I'm an easy and outgoing person, and communication is second nature to me.</p>
