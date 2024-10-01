@@ -109,5 +109,3 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
-
-###
