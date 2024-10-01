@@ -10,13 +10,11 @@
 
 ###
 
-<p align="left">
   - ✨ I've been writing code since I was a teenager, and professionally for over two years.
   
   - 📚 I'm currently learning advanced Python, along with expanding my Java knowledge past my previous projects.
     
   - 🎯 My goal is to create more full-scale personal projects, for here.
-</p>
 
 ###
 
@@ -33,15 +31,13 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
 
 ###
 
-<p align="left">
 - 🔭 I’m currently working on **a full-stack Spring website.**
-- 
+  
 - 🌱 I’m currently learning **about Java, and extending my knowledge past previous projects.**
 
 - 👯 I’m looking to collaborate on **full-stack development, and creating dynamic sites.**
 
 - 💬 Ask me about **advanced Python and automation**
-</p>
 
 ###
 
@@ -49,7 +45,6 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
 
 ###
 
-<p align="left">
   - 🐍 Python, with frameworks such as Django, Flask, SQLAlchemy, Peewee, and FastAPI
   
   - 💻 Java, C#, HTML, CSS, JavaScript, C++, Git
@@ -57,7 +52,6 @@ I sadly had many more projects that were developed, but were lost on a hard-driv
   - 📦 MySQL, Postgres, SQLite
   
   - 🎮 Unreal Engine, Unity, and other model and game visualisation software
-</p>
 
 ###
 
