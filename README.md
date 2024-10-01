@@ -11,9 +11,7 @@
 ###
 
   - ✨ I've been writing code since I was a teenager, and professionally for over two years.
-  
-  - 📚 I'm currently learning advanced Python, along with expanding my Java knowledge past my previous projects.
-    
+      
   - 🎯 My goal is to create more full-scale personal projects, for here.
 
 ###
