@@ -27,34 +27,18 @@ I created two-dimensional and three-dimensional games with Unity and Unreal Engi
 I sadly had many more projects that were developed, but were lost on a hard-drive, or never uploaded to GitHub. This is why my GitHub portfolio might look a bit bare, but rest assured, talk to me and I'm sure I'll have plenty of projects to discuss!
 </p>
 
-###
-
-- 🔭 I’m currently working on **a full-stack Spring website.**
-  
-- 🌱 I’m currently learning **about Java, and extending my knowledge past previous projects.**
-
-- 👯 I’m looking to collaborate on **full-stack development, and creating dynamic sites.**
-
-- 💬 Ask me about **advanced Python and automation**
-
-###
-
 <h2 align="left">I develop with</h2>
 
 ###
 
   - 🐍 Python, with frameworks such as Django, Flask, SQLAlchemy, Peewee, and FastAPI
   
-  - 💻 Java, C#, C++, Git
-  
-  - 🖥️ HTML, CSS, JavaScript, Angular, Ionic, Cordova
+  - 💻 JavaScript, TypeScript, C++, Git
 
   - 🛠️ Git, Docker, GitLab CI
   
-  - 📦 MySQL, Postgres, SQLite
+  - 📦 MySQL, Postgres, SQLite, and more
   
-  - 🎮 Unreal Engine, Unity, and other model and game visualisation software
-
 ###
 
 <p align="left"> I pride myself on being a clear, understandable and communicating developer. I strive to always document code, write clear naming conventions, format and cleanup code, and more. More importantly, I strive to push clear, simple commits and communicate my changes effectively with team members. I'm an easy and outgoing person, and communication is second nature to me.</p>
