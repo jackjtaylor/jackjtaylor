@@ -16,15 +16,9 @@
 
 ###
 
-<p align="left">As a developer, I've worked with a range of technologies and projects. I started creating Python projects when I was a teenager, and I still love the language to this day. I love its simplicity, ability to get projects up and running fast, and its automation potential. 
+<p align="left">I’m an experienced software developer that creates tested, reliable, and complex software. I have a proven track record of delivering high-performance solutions, with a focus on efficiency, reliability, and teamwork. With experience specialising in Backend, I’ve developed scalable applications, APIs, CI/CD pipelines and more with a range of technology stacks.
 
-I later studied a Bachelor of Information Technology and I was exposed to a wide range of tech stacks. I created full-stack websites and mobile applications with JavaScript, Angular, Ionic and other languages. I also learnt extensively about documentation, management and the 'other' parts of development, which helps me to this day. When creating a new repository or project, I aim to always document well, stay with a structure and keep code as readable as possible.
-
-I also created projects with Java, creating simple applications and command-line tools. I also created, using a graphics library alongside me, a three-dimensional raycaster-based environment. This was one of my most beloved Java-based projects, as there were no real resources online, and I had to use retro development articles and assets to decide how to develop the engine.
-
-I created two-dimensional and three-dimensional games with Unity and Unreal Engine, ranging from first-person-shooters (FPSs) to side-scrollers. I later worked with Unreal Engine professionally, and developed engine tools and plugins with Python, C++ and Blueprints.
-
-I sadly had many more projects that were developed, but were lost on a hard-drive, or never uploaded to GitHub. This is why my GitHub portfolio might look a bit bare, but rest assured, talk to me and I'm sure I'll have plenty of projects to discuss!
+I'm currently looking for new work in Germany. I love connecting with new people, so please feel free to reach out!
 </p>
 
 <h2 align="left">I develop with</h2>
